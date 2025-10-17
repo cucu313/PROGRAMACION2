@@ -12,3 +12,5 @@ class Coche:
 auto = Coche("Toyota", "Corolla")
 auto.acelerar(40)
 auto.frenar()
+
+#modificar o agregar
